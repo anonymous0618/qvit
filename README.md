@@ -25,8 +25,8 @@ conda install pytorch torchvision cpuonly -c pytorch
 ```
 **Step 3.**  Install qtransformer developed by mmpretrain
 ```bash
-git clone https://github.com/itachixc/qtransformer.git
-cd qtransformer
+git clone https://github.com/anonymous0618/qvit.git
+cd qvit
 pip install -U openmim && mim install -e .
 ```
 
